@@ -279,7 +279,7 @@ oo{
 }
 /*top info area mobile*/
 @media(max-width:900px){
-    .top-info-area-container button{
+    .top-info-area-container a{
         padding: 5spx 30px;
         font-size: 26px;
         display: block;
@@ -325,7 +325,7 @@ oo{
     align-items: center;
     z-index: 1;
 }
-.about-us-container button{
+.about-us-container a{
     margin-top:10px;
     padding:5px 10px;
     font-size: 17px;
