@@ -273,7 +273,7 @@ oo{
     color: var(--color-dark);
     padding: 20px 0;
 }
-.top-info-area-container button{
+.top-info-area-container a{
     padding: 5px 40px;
     font-size: 20px;
 }
